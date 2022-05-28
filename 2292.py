@@ -1,16 +1,6 @@
 # 2292 - 벌집
 # 2021-11-23 AM 2:06 - AM 2:12
 
-# n = int(input())
-# count = 1
-# bee_house_length = 6
-# cnt = 1
-
-# while n > cnt :
-#     count += 1
-#     cnt += bee_house_length
-#     bee_house_length += 6
-# print(count)
 
 # Solution
 '''
