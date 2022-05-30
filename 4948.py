@@ -22,20 +22,6 @@
 #         print(len(result))
 
 
-# 에라토스체 사용
-# n = int(input())
-# a = [False, False] + [True] * (2 * n - 1)
-# primes = []
-
-# for i in range(n, (2 * n) + 1) :
-#     if a[i] :
-#         primes.append(i)
-#         for j in range(2 * i, (2 * n) + 1, i) :
-#             a[j] = False
-# print(primes)
-# print(len(primes))
-
-
 ''' 시간초과 2 '''
 from math import sqrt
 while True :
